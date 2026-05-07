@@ -35,12 +35,3 @@ npm install
 npm start
 ```
 
----
-
-## Screenshots
-
-<!-- Add a screenshot of your app here -->
-
----
-
-*"Do not go gentle into that good night." — Interstellar*
